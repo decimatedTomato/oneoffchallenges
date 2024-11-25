@@ -6,7 +6,6 @@ number, take the announced number of Lira from the
 general supply. Otherwise, only take 2 Lira.
 """
 
-from itertools import product
 from pprint import pformat
 from math import isclose
 
